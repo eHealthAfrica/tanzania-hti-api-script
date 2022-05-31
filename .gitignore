@@ -129,7 +129,9 @@ dmypy.json
 .pyre/
 
 
-# Additional 
+# Additional
 .DS_Store
 /venv/
 __pycache__/
+./data/hiv_data.json
+./data/tb_data.json

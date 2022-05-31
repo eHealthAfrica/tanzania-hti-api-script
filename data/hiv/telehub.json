@@ -1,0 +1,2149 @@
+[{
+  "patient_id": "p05050202001401",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p06020101002672",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050100010047",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002438",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05030101003402",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002360",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202004008",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p24020100004968",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202001138",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002894",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202003062",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202000480",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202001050",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202001215",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002377",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202000630",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202001958",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050217000032",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201005240",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201000385",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201000687",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201002323",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050100003934",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002600",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202000449",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050217000025",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201001621",
+  "hvl_result": 0,
+  "date": "2022-04-12T10:20:55.782000+03:00"
+}, {
+  "patient_id": "p05050201002588",
+  "hvl_result": 0,
+  "date": "2022-04-12T10:22:40.729000+03:00"
+}, {
+  "patient_id": "p05050201001466",
+  "hvl_result": 0,
+  "date": "2022-04-12T10:15:56.718000+03:00"
+}, {
+  "patient_id": "p05050201001845",
+  "hvl_result": 40,
+  "date": "2022-04-12T10:15:14.815000+03:00"
+}, {
+  "patient_id": "p05050202000769",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202001018",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202003052",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201000799",
+  "hvl_result": 0,
+  "date": "2022-04-12T10:08:23.925000+03:00"
+}, {
+  "patient_id": "p05050201004946",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050100007459",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202001575",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002732",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202000222",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201001258",
+  "hvl_result": 0,
+  "date": "2022-04-12T09:55:13.612000+03:00"
+}, {
+  "patient_id": "p05050201003385",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201004722",
+  "hvl_result": 0,
+  "date": "2022-04-12T09:49:18.817000+03:00"
+}, {
+  "patient_id": "p07030200024319",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201009761",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201005360",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201002771",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201003517",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201003489",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201004463",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201001796",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202001713",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002593",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002748",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002547",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p07010100015679",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050200000886",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002548",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202001160",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002399",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202003097",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202000590",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201005177",
+  "hvl_result": 0,
+  "date": "2022-03-24T12:53:36.733000+03:00"
+}, {
+  "patient_id": "p05050201003485",
+  "hvl_result": 0,
+  "date": "2022-03-24T12:54:52.467000+03:00"
+}, {
+  "patient_id": "p05050202003056",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202003077",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002453",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201002655",
+  "hvl_result": 0,
+  "date": "2022-03-24T12:52:32.917000+03:00"
+}, {
+  "patient_id": "p07030900003639",
+  "hvl_result": 0,
+  "date": "2022-03-24T12:50:36.482000+03:00"
+}, {
+  "patient_id": "p05050201002866",
+  "hvl_result": 0,
+  "date": "2022-03-24T12:28:25.425000+03:00"
+}, {
+  "patient_id": "p05050201001009",
+  "hvl_result": 0,
+  "date": "2022-03-24T12:30:26.824000+03:00"
+}, {
+  "patient_id": "p11030211001346",
+  "hvl_result": 0,
+  "date": "2022-03-24T12:32:05.228000+03:00"
+}, {
+  "patient_id": "p05050201004865",
+  "hvl_result": 0,
+  "date": "2022-03-24T12:29:34.059000+03:00"
+}, {
+  "patient_id": "p05050201002912",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202003096",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202000712",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002473",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050100011732",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202000877",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202004000",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002366",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202001620",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002412",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002421",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002865",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05030101001849",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050100002694",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202004001",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201005627",
+  "hvl_result": 0,
+  "date": "2022-03-24T12:40:29.540000+03:00"
+}, {
+  "patient_id": "p05050201004082",
+  "hvl_result": 0,
+  "date": "2022-03-24T12:40:29.540000+03:00"
+}, {
+  "patient_id": "p11050213000010",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201002327",
+  "hvl_result": 103,
+  "date": "2022-03-24T12:46:33.865000+03:00"
+}, {
+  "patient_id": "p05050201002344",
+  "hvl_result": 0,
+  "date": "2022-03-24T12:25:55.228000+03:00"
+}, {
+  "patient_id": "p12030100020147",
+  "hvl_result": 245,
+  "date": "2022-03-24T12:27:58.888000+03:00"
+}, {
+  "patient_id": "p05050202000167",
+  "hvl_result": 0,
+  "date": "2022-03-25T10:18:15.153000+03:00"
+}, {
+  "patient_id": "p05050207000809",
+  "hvl_result": 0,
+  "date": "2022-03-25T10:18:41.985000+03:00"
+}, {
+  "patient_id": "p05050100003016",
+  "hvl_result": 0,
+  "date": "2022-03-25T10:21:31.928000+03:00"
+}, {
+  "patient_id": "p05050202002853",
+  "hvl_result": 0,
+  "date": "2022-03-25T10:20:50.067000+03:00"
+}, {
+  "patient_id": "p05050202001529",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202000718",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002868",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201000657",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202000017",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202001655",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002783",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202001470",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201005610",
+  "hvl_result": 72,
+  "date": "2022-03-23T16:55:50.946000+03:00"
+}, {
+  "patient_id": "p05050201002387",
+  "hvl_result": 0,
+  "date": "2022-03-23T16:55:00.886000+03:00"
+}, {
+  "patient_id": "p07030125001979",
+  "hvl_result": 0,
+  "date": "2022-03-23T16:56:20.273000+03:00"
+}, {
+  "patient_id": "p05050201003301",
+  "hvl_result": 0,
+  "date": "2022-03-23T16:59:40.984000+03:00"
+}, {
+  "patient_id": "p05050201000993",
+  "hvl_result": 0,
+  "date": "2022-03-23T16:59:26.082000+03:00"
+}, {
+  "patient_id": "p05050201002572",
+  "hvl_result": 0,
+  "date": "2022-03-23T17:02:32.257000+03:00"
+}, {
+  "patient_id": "p05050202002519",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202000732",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p11030201002623",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202001250",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202000104",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201005034",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201005603",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050207000540",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p12720000002259",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201002646",
+  "hvl_result": 0,
+  "date": "2022-03-23T16:48:33.972000+03:00"
+}, {
+  "patient_id": "p05050201002975",
+  "hvl_result": 0,
+  "date": "2022-03-23T16:49:26.386000+03:00"
+}, {
+  "patient_id": "p05050201005359",
+  "hvl_result": 0,
+  "date": "2022-03-23T16:50:06.808000+03:00"
+}, {
+  "patient_id": "p07020170001168",
+  "hvl_result": 0,
+  "date": "2022-03-23T16:48:00.060000+03:00"
+}, {
+  "patient_id": "p05050201002495",
+  "hvl_result": 0,
+  "date": "2022-03-23T16:47:31.952000+03:00"
+}, {
+  "patient_id": "p05050201005616",
+  "hvl_result": 0,
+  "date": "2022-03-23T16:33:53.402000+03:00"
+}, {
+  "patient_id": "p05050201005613",
+  "hvl_result": 196,
+  "date": "2022-03-23T16:33:19.478000+03:00"
+}, {
+  "patient_id": "p05050201001814",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002002",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050204001810",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p12060103000240",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202000853",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050100000844",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202001210",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202001753",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202001945",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202001764",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202001917",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002621",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202003047",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002478",
+  "hvl_result": 48,
+  "date": "2022-03-23T16:21:13.711000+03:00"
+}, {
+  "patient_id": "p05050202000282",
+  "hvl_result": 0,
+  "date": "2022-03-23T16:23:54.590000+03:00"
+}, {
+  "patient_id": "p07010200007195",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201005635",
+  "hvl_result": 0,
+  "date": "2022-03-23T16:31:23.557000+03:00"
+}, {
+  "patient_id": "p05050201001104",
+  "hvl_result": 0,
+  "date": "2022-03-23T16:29:34.355000+03:00"
+}, {
+  "patient_id": "p05050201003501",
+  "hvl_result": 0,
+  "date": "2022-03-23T16:32:23.704000+03:00"
+}, {
+  "patient_id": "p05050100003437",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p06040202002464",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201004112",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201004061",
+  "hvl_result": 40,
+  "date": "2022-03-24T13:18:43.259000+03:00"
+}, {
+  "patient_id": "p07010100032739",
+  "hvl_result": 0,
+  "date": "2022-03-24T13:07:19.952000+03:00"
+}, {
+  "patient_id": "p05050201001790",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202001750",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002376",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050100003272",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202001725",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202000594",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202003019",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002566",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202001255",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002779",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202001262",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201003127",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201004124",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201002674",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201003520",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201005612",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201005631",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202000303",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002984",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201003378",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201002455",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050100008935",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201003372",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201002983",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050100003236",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201000914",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p12070300002238",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201002794",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201007427",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201002775",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201005628",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201001343",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05051000002597",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201002004",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p22020134000115",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201006072",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002006",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202004031",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202000009",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002098",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202001901",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002895",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202003031",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202000720",
+  "hvl_result": 40,
+  "date": "2022-03-24T13:20:35.559000+03:00"
+}, {
+  "patient_id": "p05050202001002",
+  "hvl_result": 0,
+  "date": "2022-03-24T13:20:53.937000+03:00"
+}, {
+  "patient_id": "p05050202000858",
+  "hvl_result": 0,
+  "date": "2022-03-24T13:26:10.967000+03:00"
+}, {
+  "patient_id": "p05050202002610",
+  "hvl_result": 0,
+  "date": "2022-03-24T13:26:31.739000+03:00"
+}, {
+  "patient_id": "p50493212912702",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201001110",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201003855",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201001608",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201005036",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202003092",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002442",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202000082",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202001043",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202000826",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p12080100002083",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002491",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p12070200000960",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201001982",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201000191",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201001252",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201003897",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201005626",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201001747",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050100007461",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05010100013546",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202000391",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050100009123",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002107",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202003070",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202001373",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202001441",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202001310",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002123",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202003060",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202001698",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202003082",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050203002820",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202001142",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201002060",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201002508",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201003193",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201002358",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201005630",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201003259",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002441",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050300000064",
+  "hvl_result": 47,
+  "date": "2022-02-02T17:00:43.665000+03:00"
+}, {
+  "patient_id": "p12070125000064",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201000789",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201004081",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202003084",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050100002268",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002713",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202000771",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002596",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002023",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050227000118",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p07020117002087",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201000138",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050210008964",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201002556",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201000177",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050203002882",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202003075",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002369",
+  "hvl_result": 0,
+  "date": "2022-03-25T10:35:39.415000+03:00"
+}, {
+  "patient_id": "p05050201000482",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201006213",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p12020200008480",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201003925",
+  "hvl_result": 0,
+  "date": "2022-02-22T16:01:46.286000+03:00"
+}, {
+  "patient_id": "p05040200000932",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201002450",
+  "hvl_result": 0,
+  "date": "2022-02-22T16:03:03.918000+03:00"
+}, {
+  "patient_id": "p05050201001926",
+  "hvl_result": 150,
+  "date": "2022-02-22T16:03:55.781000+03:00"
+}, {
+  "patient_id": "p05050201000727",
+  "hvl_result": 0,
+  "date": "2022-02-22T16:01:18.699000+03:00"
+}, {
+  "patient_id": "p12070100000234",
+  "hvl_result": 0,
+  "date": "2022-02-22T16:00:06.593000+03:00"
+}, {
+  "patient_id": "p05050201003464",
+  "hvl_result": 0,
+  "date": "2022-02-22T15:52:00.755000+03:00"
+}, {
+  "patient_id": "p05050201005445",
+  "hvl_result": 0,
+  "date": "2022-02-22T15:54:12.141000+03:00"
+}, {
+  "patient_id": "p05050201001587",
+  "hvl_result": 0,
+  "date": "2022-02-22T16:00:27.359000+03:00"
+}, {
+  "patient_id": "p05050201004711",
+  "hvl_result": 0,
+  "date": "2022-02-22T16:00:49.944000+03:00"
+}, {
+  "patient_id": "p05050100007957",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202003076",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p12080200009839",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202003086",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050100010368",
+  "hvl_result": 0,
+  "date": "2022-02-22T16:10:57.102000+03:00"
+}, {
+  "patient_id": "p07030114000917",
+  "hvl_result": 0,
+  "date": "2022-02-22T16:11:36.148000+03:00"
+}, {
+  "patient_id": "p05050201006063",
+  "hvl_result": 0,
+  "date": "2022-02-22T16:17:46.815000+03:00"
+}, {
+  "patient_id": "p05050201002859",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201006273",
+  "hvl_result": 212,
+  "date": "2022-02-22T16:16:55.025000+03:00"
+}, {
+  "patient_id": "p05050201004999",
+  "hvl_result": 0,
+  "date": "2022-02-22T16:07:34.604000+03:00"
+}, {
+  "patient_id": "p05050201001224",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201003854",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050203000076",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002729",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202001090",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202003089",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202000798",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05010103006860",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p07010100025108",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202001279",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002424",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05040200004713",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002849",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002021",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202001056",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050100006127",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202003079",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201003726",
+  "hvl_result": 0,
+  "date": "2022-02-22T15:38:02.731000+03:00"
+}, {
+  "patient_id": "p05050201006073",
+  "hvl_result": 0,
+  "date": "2022-02-22T15:41:27.559000+03:00"
+}, {
+  "patient_id": "p05050201003412",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201001698",
+  "hvl_result": 0,
+  "date": "2022-02-22T15:40:39.710000+03:00"
+}, {
+  "patient_id": "p05050201006037",
+  "hvl_result": 0,
+  "date": "2022-02-22T15:36:44.402000+03:00"
+}, {
+  "patient_id": "p05050202001254",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202000032",
+  "hvl_result": 0,
+  "date": "2022-02-04T11:34:40.459000+03:00"
+}, {
+  "patient_id": "p05050202001887",
+  "hvl_result": 0,
+  "date": "2022-02-04T11:34:10.053000+03:00"
+}, {
+  "patient_id": "p05050202002195",
+  "hvl_result": 0,
+  "date": "2022-02-04T11:33:43.737000+03:00"
+}, {
+  "patient_id": "p05050100003193",
+  "hvl_result": 0,
+  "date": "2022-02-04T11:33:19.108000+03:00"
+}, {
+  "patient_id": "p05050202002440",
+  "hvl_result": 0,
+  "date": "2022-02-04T11:30:14.014000+03:00"
+}, {
+  "patient_id": "p05050202001425",
+  "hvl_result": 231,
+  "date": "2022-02-04T11:31:06.112000+03:00"
+}, {
+  "patient_id": "p05050202002841",
+  "hvl_result": 0,
+  "date": "2022-02-04T11:31:26.092000+03:00"
+}, {
+  "patient_id": "p05050100006644",
+  "hvl_result": 0,
+  "date": "2022-02-04T11:32:01.112000+03:00"
+}, {
+  "patient_id": "p05050201005592",
+  "hvl_result": 51520,
+  "date": "2022-02-22T15:33:47.999000+03:00"
+}, {
+  "patient_id": "p05050201006263",
+  "hvl_result": 0,
+  "date": "2022-02-22T15:35:09.986000+03:00"
+}, {
+  "patient_id": "p05050201006281",
+  "hvl_result": 0,
+  "date": "2022-02-22T15:34:19.683000+03:00"
+}, {
+  "patient_id": "p05050201005555",
+  "hvl_result": 150,
+  "date": "2022-02-04T09:09:05.189000+03:00"
+}, {
+  "patient_id": "p05050100000762",
+  "hvl_result": 0,
+  "date": "2022-02-04T09:31:49.185000+03:00"
+}, {
+  "patient_id": "p05050202002821",
+  "hvl_result": 0,
+  "date": "2022-02-04T09:37:08.127000+03:00"
+}, {
+  "patient_id": "p05050201004044",
+  "hvl_result": 0,
+  "date": "2022-02-04T11:24:29.084000+03:00"
+}, {
+  "patient_id": "p18040109000103",
+  "hvl_result": 0,
+  "date": "2022-02-04T11:26:12.707000+03:00"
+}, {
+  "patient_id": "p05050201006207",
+  "hvl_result": 0,
+  "date": "2022-02-04T11:29:33.089000+03:00"
+}, {
+  "patient_id": "p05050201003532",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202000926",
+  "hvl_result": 0,
+  "date": "2022-02-04T13:56:30.121000+03:00"
+}, {
+  "patient_id": "p05050202000746",
+  "hvl_result": 0,
+  "date": "2022-02-04T13:55:59.470000+03:00"
+}, {
+  "patient_id": "p05050202000749",
+  "hvl_result": 0,
+  "date": "2022-02-04T13:57:04.758000+03:00"
+}, {
+  "patient_id": "p05050202001141",
+  "hvl_result": 0,
+  "date": "2022-02-04T13:57:55.527000+03:00"
+}, {
+  "patient_id": "p10401000000630",
+  "hvl_result": 4692,
+  "date": "2022-02-22T16:40:09.133000+03:00"
+}, {
+  "patient_id": "p05050202001808",
+  "hvl_result": 0,
+  "date": "2022-02-09T14:23:19.558000+03:00"
+}, {
+  "patient_id": "p05050202002434",
+  "hvl_result": 0,
+  "date": "2022-02-09T14:20:33.376000+03:00"
+}, {
+  "patient_id": "p05050201000379",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002303",
+  "hvl_result": 0,
+  "date": "2022-02-09T14:21:54.460000+03:00"
+}, {
+  "patient_id": "p05050202003063",
+  "hvl_result": 0,
+  "date": "2022-02-09T14:20:16.399000+03:00"
+}, {
+  "patient_id": "p05050202002747",
+  "hvl_result": 0,
+  "date": "2022-02-09T14:20:49.637000+03:00"
+}, {
+  "patient_id": "p05050202000371",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202001763",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05040102001170",
+  "hvl_result": 0,
+  "date": "2022-02-04T14:07:13.131000+03:00"
+}, {
+  "patient_id": "p05050201003960",
+  "hvl_result": 321,
+  "date": "2022-02-04T14:05:52.235000+03:00"
+}, {
+  "patient_id": "p05050201007880",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p07010103001451",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201006160",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201006206",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201003427",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201003491",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201004574",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050100008376",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201000726",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201001909",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201000865",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p07030700000651",
+  "hvl_result": 0,
+  "date": "2022-02-22T16:27:55.926000+03:00"
+}, {
+  "patient_id": "p05040105000443",
+  "hvl_result": 47,
+  "date": "2022-02-22T16:29:24.258000+03:00"
+}, {
+  "patient_id": "p05050201006247",
+  "hvl_result": 57,
+  "date": "2022-02-04T13:33:08.476000+03:00"
+}, {
+  "patient_id": "p22010113000147",
+  "hvl_result": 0,
+  "date": "2022-02-04T13:36:58.547000+03:00"
+}, {
+  "patient_id": "p05050201002757",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201000527",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201005215",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201002095",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002193",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201006139",
+  "hvl_result": 12474,
+  "date": "2022-02-04T13:28:22.764000+03:00"
+}, {
+  "patient_id": "p05050201004897",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201003620",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201001958",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201001004",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201001883",
+  "hvl_result": 0,
+  "date": "2022-02-22T16:23:52.497000+03:00"
+}, {
+  "patient_id": "p05050201000411",
+  "hvl_result": 0,
+  "date": "2022-02-22T16:31:12.892000+03:00"
+}, {
+  "patient_id": "p05050201000660",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202000518",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202003033",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201006177",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201002417",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201006164",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201000498",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201004785",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050100004154",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05040201000106",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05040200004877",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p02040210130126",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201004543",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201003365",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002839",
+  "hvl_result": 0,
+  "date": "2022-02-22T16:37:10.620000+03:00"
+}, {
+  "patient_id": "p05050202002641",
+  "hvl_result": 0,
+  "date": "2022-01-07T13:39:33.289000+03:00"
+}, {
+  "patient_id": "p05050201006141",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201006076",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p11030211000043",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05040200001222",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201001445",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201001925",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201002429",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201001391",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201000872",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201006065",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p12030101004983",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201004051",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201001819",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201006078",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201000878",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201006190",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201003533",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p11040100000371",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05040200004646",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p07020100025002",
+  "hvl_result": 0,
+  "date": "2022-01-07T13:33:01.509000+03:00"
+}, {
+  "patient_id": "p05050202001621",
+  "hvl_result": 40,
+  "date": "2022-01-07T13:33:36.881000+03:00"
+}, {
+  "patient_id": "p05050202001168",
+  "hvl_result": 0,
+  "date": "2022-01-07T13:31:00.445000+03:00"
+}, {
+  "patient_id": "p05050202002697",
+  "hvl_result": 97,
+  "date": "2022-01-07T13:29:23.196000+03:00"
+}, {
+  "patient_id": "p05050202000724",
+  "hvl_result": 0,
+  "date": "2022-01-07T13:31:52.271000+03:00"
+}, {
+  "patient_id": "p05050202001767",
+  "hvl_result": 0,
+  "date": "2022-01-07T14:15:15.917000+03:00"
+}, {
+  "patient_id": "p05050202002775",
+  "hvl_result": 0,
+  "date": "2022-01-07T14:13:20.376000+03:00"
+}, {
+  "patient_id": "p05050202002474",
+  "hvl_result": 0,
+  "date": "2022-01-07T14:06:01.200000+03:00"
+}, {
+  "patient_id": "p05050202002388",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p06020100014570",
+  "hvl_result": 0,
+  "date": "2022-01-07T14:06:22.965000+03:00"
+}, {
+  "patient_id": "p05050100007591",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050204000974",
+  "hvl_result": 40,
+  "date": "2022-01-07T14:07:39.808000+03:00"
+}, {
+  "patient_id": "p05050202003006",
+  "hvl_result": 0,
+  "date": "2022-01-07T14:08:55.548000+03:00"
+}, {
+  "patient_id": "p05050202002829",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p15020112000046",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002871",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002703",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002690",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202001711",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002762",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002761",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002277",
+  "hvl_result": 43,
+  "date": "2021-11-26T13:07:10.446000+03:00"
+}, {
+  "patient_id": "p05050202001266",
+  "hvl_result": 0,
+  "date": "2021-11-26T13:05:54.655000+03:00"
+}, {
+  "patient_id": "p05050202001448",
+  "hvl_result": 0,
+  "date": "2021-11-26T13:06:34.450000+03:00"
+}, {
+  "patient_id": "p05050202000460",
+  "hvl_result": 0,
+  "date": "2022-01-07T14:15:57.793000+03:00"
+}, {
+  "patient_id": "p05050202002019",
+  "hvl_result": 8079,
+  "date": "2022-01-07T14:16:52.417000+03:00"
+}, {
+  "patient_id": "p05050202002451",
+  "hvl_result": 0,
+  "date": "2022-01-07T14:16:22.178000+03:00"
+}, {
+  "patient_id": "p05050202001161",
+  "hvl_result": 0,
+  "date": "2022-01-07T14:23:29.561000+03:00"
+}, {
+  "patient_id": "p07020700001335",
+  "hvl_result": 0,
+  "date": "2022-01-07T14:22:04.221000+03:00"
+}, {
+  "patient_id": "p05050202002715",
+  "hvl_result": 0,
+  "date": "2021-11-26T12:37:33.951000+03:00"
+}, {
+  "patient_id": "p05050202001355",
+  "hvl_result": 0,
+  "date": "2021-11-26T12:36:48.574000+03:00"
+}, {
+  "patient_id": "p05050202003043",
+  "hvl_result": 40,
+  "date": "2021-11-26T12:36:17.679000+03:00"
+}, {
+  "patient_id": "p05050100001678",
+  "hvl_result": 0,
+  "date": "2021-11-10T17:13:13.221000+03:00"
+}, {
+  "patient_id": "p05050202002742",
+  "hvl_result": 0,
+  "date": "2021-11-10T17:06:15.270000+03:00"
+}, {
+  "patient_id": "p05050202001946",
+  "hvl_result": 40,
+  "date": "2021-11-10T17:06:48.398000+03:00"
+}, {
+  "patient_id": "p05050202000626",
+  "hvl_result": 0,
+  "date": "2021-11-10T17:05:19.461000+03:00"
+}, {
+  "patient_id": "p05052020001447",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p11060100002595",
+  "hvl_result": 0,
+  "date": "2021-11-10T17:03:31.976000+03:00"
+}, {
+  "patient_id": "p05050202003015",
+  "hvl_result": 61,
+  "date": "2021-11-10T17:04:08.539000+03:00"
+}, {
+  "patient_id": "p05050202002959",
+  "hvl_result": 0,
+  "date": "2021-11-10T17:04:32.576000+03:00"
+}, {
+  "patient_id": "p05050202000138",
+  "hvl_result": 0,
+  "date": "2021-11-10T17:04:55.619000+03:00"
+}, {
+  "patient_id": "p07020100002324",
+  "hvl_result": 15,
+  "date": "2021-10-13T11:22:15.253000+03:00"
+}, {
+  "patient_id": "p05030101000567",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202001726",
+  "hvl_result": 0,
+  "date": "2021-11-10T17:07:15.080000+03:00"
+}, {
+  "patient_id": "p05050202000459",
+  "hvl_result": 0,
+  "date": "2021-11-09T12:19:11.026000+03:00"
+}, {
+  "patient_id": "p05050202002394",
+  "hvl_result": 40,
+  "date": "2021-11-09T12:18:46.277000+03:00"
+}, {
+  "patient_id": "p05050202002978",
+  "hvl_result": 40,
+  "date": "2021-11-09T12:22:40.671000+03:00"
+}, {
+  "patient_id": "p05050202001617",
+  "hvl_result": 52,
+  "date": "2021-11-09T12:23:07.579000+03:00"
+}, {
+  "patient_id": "p05050202002951",
+  "hvl_result": 0,
+  "date": "2021-11-09T12:17:24.194000+03:00"
+}, {
+  "patient_id": "p05050202002712",
+  "hvl_result": 45,
+  "date": "2021-11-09T12:16:56.650000+03:00"
+}, {
+  "patient_id": "p05050202002721",
+  "hvl_result": 40,
+  "date": "2021-11-09T12:16:15.924000+03:00"
+}, {
+  "patient_id": "p05050202002653",
+  "hvl_result": 0,
+  "date": "2021-11-10T17:02:11.350000+03:00"
+}, {
+  "patient_id": "p05050202002113",
+  "hvl_result": 0,
+  "date": "2021-11-09T12:15:44.479000+03:00"
+}, {
+  "patient_id": "p05050202001777",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002214",
+  "hvl_result": 0,
+  "date": "2021-11-09T12:14:50.423000+03:00"
+}, {
+  "patient_id": "p05050202000127",
+  "hvl_result": 0,
+  "date": "2021-11-09T12:14:14.864000+03:00"
+}, {
+  "patient_id": "p22040105000118",
+  "hvl_result": 0,
+  "date": "2021-11-09T12:13:40.255000+03:00"
+}, {
+  "patient_id": "p07030125000664",
+  "hvl_result": 0,
+  "date": "2021-11-09T12:11:21.110000+03:00"
+}, {
+  "patient_id": "p05050202002468",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002962",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002982",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050208000142",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05030101000773",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202001511",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05030100000383",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050055131880",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202001422",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202000955",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202001121",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050201004321",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202000252",
+  "hvl_result": 53600,
+  "date": "2021-10-13T15:24:47.453000+03:00"
+}, {
+  "patient_id": "p05050207000598",
+  "hvl_result": 0,
+  "date": "2021-10-13T16:00:26.528000+03:00"
+}, {
+  "patient_id": "p05050202000445",
+  "hvl_result": 0,
+  "date": "2021-10-13T15:07:06.367000+03:00"
+}, {
+  "patient_id": "p05050202001973",
+  "hvl_result": 0,
+  "date": "2021-10-13T16:00:43.963000+03:00"
+}, {
+  "patient_id": "p05050202002297",
+  "hvl_result": 0,
+  "date": "2021-10-13T16:06:15.168000+03:00"
+}, {
+  "patient_id": "p05050202000925",
+  "hvl_result": 23,
+  "date": "2021-10-13T15:41:07.280000+03:00"
+}, {
+  "patient_id": "p05050202002581",
+  "hvl_result": 0,
+  "date": "2021-10-13T15:40:18.312000+03:00"
+}, {
+  "patient_id": "p05050202001179",
+  "hvl_result": 0,
+  "date": "2021-10-13T15:42:23.710000+03:00"
+}, {
+  "patient_id": "p05050100007090",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002753",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202001176",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002587",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202000298",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202001863",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202001137",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202001231",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202001929",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202001191",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002340",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p07020200001052",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202001460",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05030100003414",
+  "hvl_result": 0,
+  "date": "2022-02-22T16:38:10.050000+03:00"
+}, {
+  "patient_id": "p05050202001771",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202002544",
+  "hvl_result": 0,
+  "date": "2022-02-22T16:37:47.729000+03:00"
+}, {
+  "patient_id": "p05050202001732",
+  "hvl_result": 0,
+  "date": "2022-02-22T16:38:31.855000+03:00"
+}, {
+  "patient_id": "p05050202002110",
+  "hvl_result": 0,
+  "date": "2021-11-10T16:31:39.855000+03:00"
+}, {
+  "patient_id": "p05050100000969",
+  "hvl_result": 0,
+  "date": "2021-10-13T15:48:49.185000+03:00"
+}, {
+  "patient_id": "p05050202001200",
+  "hvl_result": 0,
+  "date": "2021-10-13T15:47:56.954000+03:00"
+}, {
+  "patient_id": "p05050202000783",
+  "hvl_result": 0,
+  "date": "2021-10-13T15:47:16.136000+03:00"
+}, {
+  "patient_id": "p05050202001627",
+  "hvl_result": 0,
+  "date": "2021-10-13T15:46:54.330000+03:00"
+}, {
+  "patient_id": "p08010105000114",
+  "hvl_result": 0,
+  "date": "2021-10-13T15:46:11.459000+03:00"
+}, {
+  "patient_id": "p05050202000089",
+  "hvl_result": 0,
+  "date": "2021-10-13T15:44:11.191000+03:00"
+}, {
+  "patient_id": "p05050202001626",
+  "hvl_result": 0,
+  "date": "2021-11-10T16:28:19.456000+03:00"
+}, {
+  "patient_id": "p05050200002387",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202000614",
+  "hvl_result": 0,
+  "date": "2021-11-10T16:26:21.966000+03:00"
+}, {
+  "patient_id": "p05050202001919",
+  "hvl_result": 64,
+  "date": "2021-11-10T16:25:53.444000+03:00"
+}, {
+  "patient_id": "p05050202002122",
+  "hvl_result": 0,
+  "date": "2021-11-10T16:25:23.688000+03:00"
+}, {
+  "patient_id": "p05050202001025",
+  "hvl_result": 0,
+  "date": "2021-09-11T13:17:09.226000+03:00"
+}, {
+  "patient_id": "p05050202001836",
+  "hvl_result": 0,
+  "date": "2021-09-11T13:16:35.804000+03:00"
+}, {
+  "patient_id": "p05050100001476",
+  "hvl_result": 0,
+  "date": "2021-09-11T13:15:28.416000+03:00"
+}, {
+  "patient_id": "p05050202002500",
+  "hvl_result": 0,
+  "date": "2021-09-11T13:14:58.815000+03:00"
+}, {
+  "patient_id": "p05050202001228",
+  "hvl_result": 0,
+  "date": "2021-09-11T13:21:52.931000+03:00"
+}, {
+  "patient_id": "p05050202002392",
+  "hvl_result": 0,
+  "date": "2021-09-11T13:21:26.044000+03:00"
+}, {
+  "patient_id": "p19021000004232",
+  "hvl_result": 0,
+  "date": "2021-09-11T13:20:02.179000+03:00"
+}, {
+  "patient_id": "p05050202002264",
+  "hvl_result": 0,
+  "date": "2021-09-11T13:20:30.375000+03:00"
+}, {
+  "patient_id": "p05050202001865",
+  "hvl_result": 40,
+  "date": "2021-09-11T13:19:35.903000+03:00"
+}, {
+  "patient_id": "p05050202000855",
+  "hvl_result": 0,
+  "date": "2021-09-03T20:01:48.698000+03:00"
+}, {
+  "patient_id": "p05050202000094",
+  "hvl_result": 0,
+  "date": "2021-09-03T19:52:53.363000+03:00"
+}, {
+  "patient_id": "p05050202000059",
+  "hvl_result": 0,
+  "date": "2021-09-03T19:52:02.440000+03:00"
+}, {
+  "patient_id": "p05050202001466",
+  "hvl_result": 0,
+  "date": "2021-09-03T19:51:26.747000+03:00"
+}, {
+  "patient_id": "p05050202001110",
+  "hvl_result": 0,
+  "date": "2021-09-03T19:50:58.435000+03:00"
+}, {
+  "patient_id": "p05050202001714",
+  "hvl_result": 0,
+  "date": "2021-09-03T19:50:19.402000+03:00"
+}, {
+  "patient_id": "p05050202002150",
+  "hvl_result": 0,
+  "date": "2021-09-03T19:56:11.277000+03:00"
+}, {
+  "patient_id": "p05050202000874",
+  "hvl_result": 40,
+  "date": "2021-09-03T19:55:27.516000+03:00"
+}, {
+  "patient_id": "p05050202002925",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202001749",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050204001722",
+  "hvl_result": 40,
+  "date": "2021-09-03T19:48:23.635000+03:00"
+}, {
+  "patient_id": "p05050202002347",
+  "hvl_result": 0,
+  "date": "2021-08-29T12:58:09.838000+03:00"
+}, {
+  "patient_id": "p05050202002953",
+  "hvl_result": 0,
+  "date": "2021-08-29T12:33:09.974000+03:00"
+}, {
+  "patient_id": "p05050202002799",
+  "hvl_result": null,
+  "date": null
+}, {
+  "patient_id": "p05050202000722",
+  "hvl_result": 0,
+  "date": "2021-08-29T12:51:43.777000+03:00"
+}, {
+  "patient_id": "p05050202002118",
+  "hvl_result": 0,
+  "date": "2021-08-29T12:26:15.035000+03:00"
+}, {
+  "patient_id": "p05050204000521",
+  "hvl_result": 0,
+  "date": "2021-08-29T12:49:34.723000+03:00"
+}, {
+  "patient_id": "p12080103002335",
+  "hvl_result": 40,
+  "date": "2021-08-24T10:59:41.480000+03:00"
+}, {
+  "patient_id": "p05050201003422",
+  "hvl_result": 0,
+  "date": "2021-08-24T10:58:57.243000+03:00"
+}, {
+  "patient_id": "p05050202001149",
+  "hvl_result": 0,
+  "date": "2021-08-24T10:58:19.218000+03:00"
+}, {
+  "patient_id": "p05050202002213",
+  "hvl_result": 40,
+  "date": "2021-08-24T10:51:47.977000+03:00"
+}, {
+  "patient_id": "p12070104000512",
+  "hvl_result": 40,
+  "date": "2021-08-24T10:54:56.915000+03:00"
+}]
